@@ -1,3 +1,11 @@
-**Simple HTML & CSS Website**
+# Basic-Website-using-HTML5-CSS3
+Create your very first website using HTML5, CSS3
 
-This website is a demonstration of the fundamental concepts in web development. It's crafted using HTML and CSS, focusing on basic tags and their attributes. Since there's no database integration, the site doesn't require or process any user input. It's a minimalist showcase of web design essentials.
+Paste all the images in one folder and name it as img.
+Download logo image and paste it in img folder.
+
+copy and paste index.html code in VS Code or NOTE PAD ++ and save it as index.html
+copy and paste style.css code in VS Code or NOTE PAD ++ and save it as style.css
+
+
+-----WILL POST SHOPPING WEBSITE WITH ADD TO CART OPTION AND FULLY FUNCTIONABLE----
